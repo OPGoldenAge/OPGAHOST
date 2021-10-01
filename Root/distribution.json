@@ -372,16 +372,6 @@
           }
         },
         {
-          "id": "mod.reborn:rebornmod:1.0-1.12@jar",
-          "name": "RebornMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 122455837,
-            "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGA-1.12.2/forgemods/required/JurassicWorldReborn-1.1.0-1.12.2+.jar",
-            "MD5": "73901ee6cd862792dfe21805308c67c6"
-          }
-        },
-        {
           "id": "net.ilexiconn:llibrary:1.7.20-1.12.2@jar",
           "name": "LLibrary",
           "type": "ForgeMod",
@@ -545,17 +535,6 @@
             "size": 12673663,
             "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGA-1.12.2/forgemods/required/zawa-1.12.2-2.1.3.jar",
             "MD5": "8f993a87fd5ae86e48dd50aeba3aff47"
-          }
-        },
-        {
-          "id": "vanillafix.cfg",
-          "name": "vanillafix.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 454,
-            "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGA-1.12.2/files/config/vanillafix.cfg",
-            "MD5": "2849fc975ebb371a4b35c4d8aab39f99",
-            "path": "config/vanillafix.cfg"
           }
         },
         {
@@ -967,16 +946,6 @@
           }
         },
         {
-          "id": "mod.reborn:rebornmod:1.0-1.12@jar",
-          "name": "RebornMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 122455837,
-            "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGAStaff-1.12.2/forgemods/required/JurassicWorldReborn-1.1.0-1.12.2+.jar",
-            "MD5": "73901ee6cd862792dfe21805308c67c6"
-          }
-        },
-        {
           "id": "net.ilexiconn:llibrary:1.7.20-1.12.2@jar",
           "name": "LLibrary",
           "type": "ForgeMod",
@@ -1150,17 +1119,6 @@
             "size": 12673663,
             "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGAStaff-1.12.2/forgemods/required/zawa-1.12.2-2.1.3.jar",
             "MD5": "8f993a87fd5ae86e48dd50aeba3aff47"
-          }
-        },
-        {
-          "id": "vanillafix.cfg",
-          "name": "vanillafix.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 454,
-            "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGAStaff-1.12.2/files/config/vanillafix.cfg",
-            "MD5": "2849fc975ebb371a4b35c4d8aab39f99",
-            "path": "config/vanillafix.cfg"
           }
         },
         {
