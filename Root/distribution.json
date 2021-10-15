@@ -382,6 +382,16 @@
           }
         },
         {
+          "id": "melonslise.locks:locks:2.5.1@jar",
+          "name": "Locks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 481968,
+            "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGA-1.12.2/forgemods/required/locks-1.12.2-2.5.1.jar",
+            "MD5": "4edd554369a6c9e7fa50245acec7f65d"
+          }
+        },
+        {
           "id": "com.korallkarlsson:matchlockweapons:0.8@jar",
           "name": "Matchlock Guns Mod",
           "type": "ForgeMod",
@@ -432,16 +442,6 @@
           }
         },
         {
-          "id": "net.mcreator:opgadisplay:1.0.0@jar",
-          "name": "OPGADisplay",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 325951,
-            "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGA-1.12.2/forgemods/required/opga-icons.jar",
-            "MD5": "ca8417c5d7c152e351623f1a044f8fff"
-          }
-        },
-        {
           "id": "net.mcreator:opga:1.0.0@jar",
           "name": "OPGA",
           "type": "ForgeMod",
@@ -449,6 +449,16 @@
             "size": 2493145,
             "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGA-1.12.2/forgemods/required/opga.jar",
             "MD5": "653b9e8ca4cf9f58998f023b74f1d9f4"
+          }
+        },
+        {
+          "id": "net.mcreator:opgadisplay:1.0.0@jar",
+          "name": "OPGADisplay",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 388823,
+            "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGA-1.12.2/forgemods/required/opgadisplay-1.1.0.jar",
+            "MD5": "b674e1943fdb73855f5975cb0f77ee80"
           }
         },
         {
@@ -956,6 +966,16 @@
           }
         },
         {
+          "id": "melonslise.locks:locks:2.5.1@jar",
+          "name": "Locks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 481968,
+            "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGAStaff-1.12.2/forgemods/required/locks-1.12.2-2.5.1.jar",
+            "MD5": "4edd554369a6c9e7fa50245acec7f65d"
+          }
+        },
+        {
           "id": "com.korallkarlsson:matchlockweapons:0.8@jar",
           "name": "Matchlock Guns Mod",
           "type": "ForgeMod",
@@ -1006,16 +1026,6 @@
           }
         },
         {
-          "id": "net.mcreator:opgadisplay:1.0.0@jar",
-          "name": "OPGADisplay",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 325951,
-            "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGAStaff-1.12.2/forgemods/required/opga-icons.jar",
-            "MD5": "ca8417c5d7c152e351623f1a044f8fff"
-          }
-        },
-        {
           "id": "net.mcreator:opga:1.0.0@jar",
           "name": "OPGA",
           "type": "ForgeMod",
@@ -1023,6 +1033,16 @@
             "size": 2493145,
             "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGAStaff-1.12.2/forgemods/required/opga.jar",
             "MD5": "653b9e8ca4cf9f58998f023b74f1d9f4"
+          }
+        },
+        {
+          "id": "net.mcreator:opgadisplay:1.0.0@jar",
+          "name": "OPGADisplay",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 388823,
+            "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGAStaff-1.12.2/forgemods/required/opgadisplay-1.1.0.jar",
+            "MD5": "b674e1943fdb73855f5975cb0f77ee80"
           }
         },
         {
