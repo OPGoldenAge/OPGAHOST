@@ -956,6 +956,16 @@
           }
         },
         {
+          "id": "net.mcreator:insects:1.0.0@jar",
+          "name": "Insects",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 111214,
+            "url": "https://raw.githubusercontent.com/OPGoldenAge/OPGAHOST/master/Root/servers/OPGAStaff-1.12.2/forgemods/required/InsectsMod_1.12.2.jar",
+            "MD5": "6ccd9ea809403dcf2bfdc91b66fc2eee"
+          }
+        },
+        {
           "id": "net.ilexiconn:llibrary:1.7.20-1.12.2@jar",
           "name": "LLibrary",
           "type": "ForgeMod",
